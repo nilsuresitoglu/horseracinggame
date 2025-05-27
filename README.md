@@ -6,4 +6,4 @@
 
 ---
 
-Proje detayları ve kurulum yönergeleri aşağıda yer alabilir.
+
