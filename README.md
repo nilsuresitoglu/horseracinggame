@@ -2,8 +2,6 @@
 
 ## Live Demo
 
-[Projeyi buradan canlı olarak görebilirsiniz.](https://horseracingname.netlify.app)
+[Projeyi buradan canlı olarak görebilirsiniz.]
 
 ---
-
-
